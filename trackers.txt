@@ -54,6 +54,8 @@ https://tracker.leechshield.link:443/announce
 
 https://tracker.manager.v6.navy:443/announce
 
+https://tracker.nekomi.cn:443/announce
+
 https://tracker.zhuqiy.com:443/announce
 
 https://tracker1.520.jp:443/announce
